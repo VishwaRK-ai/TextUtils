@@ -1,5 +1,6 @@
 TextUtils is a fast, client-side web application designed to streamline text formatting and analysis. It offers real-time word and character counts, reading time estimations, dynamic search highlighting, and multiple premium themes (including Dark Mode). Because everything runs locally in the browser, your sensitive data remains 100% secure and private.
 
+https://text-utils-one-swart.vercel.app/
 
 Key Features:
 
